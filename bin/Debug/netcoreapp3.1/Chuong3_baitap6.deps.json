@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Chuong3_baitap6/1.0.0": {
+        "runtime": {
+          "Chuong3_baitap6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chuong3_baitap6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
